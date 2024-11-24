@@ -17,7 +17,6 @@ The dataset includes the following columns:
 | **km_driven**  | The total kilometers the car has been driven, usually for used cars.       |
 | **tax**        | The annual road tax applicable to the car.                                 |
 | **year**       | The year of manufacture or model release.                                  |
-| **time**       | The timestamp associated with the data entry or event.                    |
 
 ---
 
