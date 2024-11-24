@@ -22,7 +22,7 @@ The dataset includes the following columns:
 
 ## Analysis
 
-### 1. **Average Price by Transmission Type **
+### 1. **Average Price by Transmission Type**
 
 #### **Question:**  
 How does the average price of cars vary across different transmission types (Automatic, Manual, Semi-Auto)?
