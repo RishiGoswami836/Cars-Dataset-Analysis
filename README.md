@@ -20,4 +20,16 @@ The dataset includes the following columns:
 
 ---
 
+## Analysis
 
+### 1. **Average Price by Transmission Type (Line Chart)**
+
+**Question:**  
+How does the average price of cars vary across different transmission types (Automatic, Manual, Semi-Auto)?
+
+**Interpretation:**  
+- Automatic cars are the most expensive (~30,000–50,000), followed by Semi-Auto and Manual (~20,000–25,000).  
+- A price spike occurs around 22:00, with convergence of Automatic and Semi-Auto prices after 22:15.  
+- The market favors automatic transmissions for performance but values manual for cost stability.
+
+---
