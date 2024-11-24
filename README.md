@@ -1,5 +1,7 @@
 # Analysis of Cars Dataset
 
+This project contains the graphical analysis of Cars Dataset (which has been attached) using Grafana in Ubuntu_kibana.
+
 ## Dataset Description
 
 This dataset provides comprehensive information about cars, covering various attributes related to their specifications, performance, and market positioning.
