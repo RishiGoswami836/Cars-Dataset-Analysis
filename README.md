@@ -150,14 +150,14 @@ This section outlines actionable insights derived from the dataset analysis, foc
 
 ---
 
-## **Market Segmentation & Pricing**
+### **Market Segmentation & Pricing**
 - **Automatic Transmission Vehicles:** Represent the premium segment, priced between 30,000–50,000.  
 - **Manual/Semi-Automatic Vehicles:** Dominate volume sales at lower price points (20,000–25,000).  
 - **Key Insight:** Clear opportunities exist to serve both value and premium markets through differentiated offerings.  
 
 ---
 
-## **Transmission Type Distribution**
+### **Transmission Type Distribution**
 - **Market Share:**  
   - Semi-Automatic: 44%  
   - Manual: 41%  
@@ -166,41 +166,41 @@ This section outlines actionable insights derived from the dataset analysis, foc
 
 ---
 
-## **Fuel Type Economics & Environmental Impact**
+### **Fuel Type Economics & Environmental Impact**
 - **Hybrid Vehicles:** Offer the best cost efficiency, with the lowest taxes and the best price-to-MPG ratio.  
 - **Diesel Vehicles:** Face the highest tax burden but maintain steady prices due to durability and performance.  
 - **Key Insight:** Favorable tax policies indicate a clear market shift towards eco-friendly vehicles.  
 
 ---
 
-## **Price-Performance Relationship**
+### **Price-Performance Relationship**
 - **Engine Size:** Prices increase with engine size, with the standard range at 1.75–2.0L and the premium segment marked by larger engines (~3.0L).  
 - **Market Segments:** Price variations reflect distinct segments based on performance needs.  
 
 ---
 
-## **Age-Based Pricing Trends**
+### **Age-Based Pricing Trends**
 - **Newer Models (2017–2018):** Command higher prices but face higher taxes (19–20%).  
 - **Older Models (2013–2015):** Offer a value proposition with lower taxes (16%).  
 - **Key Insight:** A balanced inventory across different age groups is essential to cater to diverse customer needs.  
 
 ---
 
-## **Tax Strategy Implications**
+### **Tax Strategy Implications**
 - **Hybrid Vehicles:** Benefit from the lowest tax burden, making them an attractive eco-friendly option.  
 - **Newer Vehicles:** Have higher taxes, impacting total ownership costs.  
 - **Key Insight:** Tax considerations significantly influence customer buying decisions and should guide pricing strategies.  
 
 ---
 
-## **Product Portfolio Management**
+### **Product Portfolio Management**
 - Maintain a balanced inventory across transmission types to address varied customer preferences.  
 - Focus on eco-friendly options (hybrids) to leverage tax advantages and growing environmental awareness.  
 - Retain premium options (automatic and larger engine vehicles) for high-margin opportunities.  
 
 ---
 
-## **Value Proposition Targeting**
+### **Value Proposition Targeting**
 - **Hybrid Vehicles:** Ideal for cost-conscious and environmentally aware customers.  
 - **Automatic Vehicles:** Targeted at the luxury and convenience-focused segment.  
 - **Manual/Semi-Automatic Vehicles:** Best suited for value-seeking customers.  
@@ -208,7 +208,7 @@ This section outlines actionable insights derived from the dataset analysis, foc
 
 ---
 
-## **Summary of Strategic Recommendations**
+### **Summary of Strategic Recommendations**
 1. **Market Diversification:** Serve both value and premium segments with tailored offerings.  
 2. **Focus on Eco-Friendly Options:** Align with environmental policies and customer preferences for hybrids.  
 3. **Optimized Inventory:** Ensure a balanced mix of older and newer models to meet diverse budgetary and tax considerations.  
